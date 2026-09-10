@@ -1,3 +1,8 @@
+//INTEGRANTES:
+//Vinícius Sieben Dominoni Gomes
+//Gabriel Langue Da Rocha
+//TURMA: 3ª Série J
+
 
 const campoSenha =
 document.querySelector("#campo-senha");
